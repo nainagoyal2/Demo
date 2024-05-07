@@ -1,6 +1,7 @@
 this is my first GitHub project
 
 tester2 this is tester 2 data
+new update
 =======
 tester1 :first change made by tester1
 
